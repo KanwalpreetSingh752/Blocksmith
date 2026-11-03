@@ -1,0 +1,8 @@
+# Compiled executable
+allocator
+
+# Object files
+*.o
+
+# Debug files
+*.out
